@@ -1,0 +1,2 @@
+# Problema-3-Proyecto-1
+Un cajero automático de Bank of America está teniendo problemas para el retiro de efectivo, lo que ha causado un gran disgusto en los usuarios. Dada la situación, el Banco ha venido a la Facultad de Ingeniería de la UCV a solicitar un nuevo programa en que dado un monto en dólares se debe determinar la mínima cantidad de billetes en la que se le entregará esa cantidad. Ejemplo: Un usuario necesita retirar 265$, el resultado del código debe ser el siguiente:2 billetes de 100$ 1 billete de 50$ 1 billete de 10$ 1 billete de 5$
